@@ -6,3 +6,5 @@ Written with React and TypeScript, built by Vite.
 To run, `npm i` and `npm run dev`
 
 This is not a complete project and there are many things that could be optimized and organized. This was simply a fun little project exploring react-flow and testing things out. Much inspiration taken from react-flow docs!
+
+![Vacation Prediction](src/assets/screenshot.png)
